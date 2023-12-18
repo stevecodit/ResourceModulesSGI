@@ -81,7 +81,7 @@ variables:
   ##   Connection settings   ##
   #############################
 
-  serviceConnection: 'CARML-CSU-Tenant-Connection'
+  serviceConnection: 'SGItester'
 
   ################
   ##   Source   ##
