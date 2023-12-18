@@ -1,4 +1,4 @@
-metadata name = '[[vnet_name]]'
+metadata name = 'Virtual Networks'
 metadata description = 'This module deploys a Virtual Network (vNet).'
 metadata owner = 'Azure/module-maintainers'
 
