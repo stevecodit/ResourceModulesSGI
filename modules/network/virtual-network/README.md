@@ -27,7 +27,9 @@ This module deploys a Virtual Network (vNet).
 The following section provides usage examples for the module, which were used to validate and deploy the module successfully. For a full reference, please review the module's test folder in its repository.
 
 >**Note**: Each example lists all the required parameters first, followed by the rest - each in alphabetical order.
+
 >**Note**: To reference the module, please use the following syntax `br:bicep/modules/network.virtual-network:1.0.0`.
+
 - [Using only defaults](#example-1-using-only-defaults)
 - [Using large parameter set](#example-2-using-large-parameter-set)
 - [Vnetpeering](#example-3-vnetpeering)
