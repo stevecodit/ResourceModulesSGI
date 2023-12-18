@@ -1,4 +1,4 @@
-metadata name = 'Virtual Networks'
+metadata name = 'carml-sgi-vnet'
 metadata description = 'This module deploys a Virtual Network (vNet).'
 metadata owner = 'Azure/module-maintainers'
 
